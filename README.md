@@ -20,7 +20,7 @@ This is a curated selection of informative videos covering a wide range of progr
 [GhostWriting-based injection](https://www.youtube.com/watch?v=fo3-J4jhuB4) by  x0reaxeax
 
 ## Online privacy / anonymity
-[How To Create Your Own VPN (and why)](https://www.youtube.com/watch?v=Lk_v6Q0YsNo)
+[How To Create Your Own VPN (and why)](https://www.youtube.com/watch?v=Lk_v6Q0YsNo) by Mental Outlaw
 
 ## Notes
 Feel free to create any pull requests / contact me on my discord(Duchy#6969), if you feel like there are any videos that need to be added \
