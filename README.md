@@ -1,4 +1,4 @@
-# programming-videos-collection 📝
+# programming/compsci-videos-collection 📝
 This is a curated selection of informative videos covering a wide range of programming / computer science topics
 
 ## General Stuff
