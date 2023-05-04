@@ -11,7 +11,8 @@ This is a curated selection of informative videos covering a wide range of progr
 
 ## C++ Related videos
 [Modern C++: Unique Ptrs and Vectors](https://www.youtube.com/watch?v=b8V-WIjlScA) by Dave's garage \
-[31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w) by mCoding
+[31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w) by mCoding \
+[Casting in C++](https://www.youtube.com/watch?v=pWZS1MtxI-A) by The Cherno
 
 
 ## Reverse Engineering / Hacking
