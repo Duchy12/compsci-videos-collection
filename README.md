@@ -6,7 +6,7 @@ This is a curated selection of informative videos covering a wide range of progr
 [10 Math Concepts for Programmers](https://www.youtube.com/watch?v=bOCHTHkBoAs) by Fireship \
 [Random Numbers in Computers Are Predictable](https://www.youtube.com/watch?v=wDj64pSeQ4I) by Low Level Learning \
 [computers are horrible at division (a painful discovery)](https://www.youtube.com/watch?v=ssDBqQ5f5_0) by Low Level Learning \
-[Why You Shouldn't Nest Your Code](https://www.youtube.com/watch?v=CFRhGnuXG-4) by CodeAesthetic \
+[Why You Shouldn't Nest Your Code](https://www.youtube.com/watch?v=CFRhGnuXG-4) by CodeAesthetic
 
 
 ## Algorithms
@@ -21,6 +21,7 @@ This is a curated selection of informative videos covering a wide range of progr
 ## Reverse Engineering / Hacking
 [Buffer Overflows: A Symphony of Exploitation](https://www.youtube.com/watch?v=6sUd3AA7Q50) by Crow \
 [Malware Development: Processes, Threads, and Handles](https://www.youtube.com/watch?v=aNEqC-U5tHM) by Crow  \
+[ Malware Development II: Process Injection](https://www.youtube.com/watch?v=A6EKDAKBXPs) by Crow \
 [GhostWriting-based injection](https://www.youtube.com/watch?v=fo3-J4jhuB4) by  x0reaxeax \
 [What are Executables? | bin 0x00](https://www.youtube.com/watch?v=WnqOhgI_8wA) by PwnFunction \
 [become a gigachad assembly programmer in only 10 minutes](https://www.youtube.com/watch?v=6S5KRJv-7RU) by Low Level Learning
