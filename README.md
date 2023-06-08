@@ -30,5 +30,5 @@ This is a curated selection of informative videos covering a wide range of progr
 [How To Create Your Own VPN (and why)](https://www.youtube.com/watch?v=Lk_v6Q0YsNo) by Mental Outlaw
 
 ## Notes
-Feel free to create any pull requests / contact me on my discord(Duchy#6969), if you feel like there are any videos that need to be added \
+Feel free to create any pull requests / contact me on my discord(duchy), if you feel like there are any videos that need to be added \
 A lot of gratitude goes towards all of the creators 
